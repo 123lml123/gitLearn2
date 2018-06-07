@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hahaha
-=======
-haha
-Á·Ï°
->>>>>>> 1c000ef2279e9ebb0e46a469ae8a8290ec686384
+haha1
