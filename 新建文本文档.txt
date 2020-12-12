@@ -7,8 +7,4 @@ haha1
 
 +base1
 +base2
-<<<<<<< HEAD
-=base3
-=======
->>>>>>> clear base-dev2
 +base-dev2
